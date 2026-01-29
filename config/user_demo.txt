@@ -32,7 +32,7 @@ SABC News
 Sky News
 TNTV
 
-📺央视频道,#genre#
+📺央视频道1,#genre#
 CCTV1
 CCTV2
 CCTV3
