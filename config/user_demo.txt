@@ -32,6 +32,44 @@ SABC News
 Sky News
 TNTV
 
+📺央视频道,#genre#
+CCTV1
+CCTV2
+CCTV3
+CCTV4
+CCTV5
+CCTV5+
+CCTV6
+CCTV7
+CCTV8
+CCTV9
+CCTV10
+CCTV11
+CCTV12
+CCTV13
+CCTV14
+CCTV15
+CCTV16
+CCTV17
+CCTV世界地理
+CCTV第一剧场
+第一剧场
+CGTN法语
+CGTN英语
+CHC家庭影院
+CHC动作电影
+IPTV经典电影
+CGTN俄语
+CGTN法语
+CGTN纪录
+CGTN西语
+ABC News
+BBC News
+SABC News
+Sky News
+TNTV
+中华小当家
+
 📡卫视频道,#genre#
 北京卫视
 湖北卫视
@@ -69,6 +107,7 @@ TNTV
 新疆卫视
 云南卫视
 海峡卫视
+兵团卫视
 
 📡港澳台,#genre#
 凤凰香港
@@ -101,17 +140,16 @@ Now新闻
 澳亚卫视
 澳门莲花
 
-📡电影频道,#genre#
-CHC家庭影院
-CHC动作电影
-CHC影迷电影
-淘电影
-靖天电影
-东森电影
-龙华电影
-经典电影
-1905国内电影
-周星星
-周星驰
-林正英
-王晶
+📡General,#genre#
+CCTV-4 America (1080p)
+CCTV-4 Europe
+TNTV (1080p)
+
+📡Music,#genre#
+TNT Music
+
+📡News,#genre#
+ABC News
+CCTV+ 1 (600p) [Not 24/7]
+CCTV+ 2 (600p) [Not 24/7]
+Sky News
