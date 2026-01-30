@@ -1,6 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+https://ghfast.top/raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
 https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
 https://raw.githubusercontent.com/mingxing0769/iptv/refs/heads/main/out/MergedCleanPlaylist.m3u8
 https://raw.githubusercontent.com/mingxing0769/iptv/refs/heads/main/out/MergedCleanPlaylist_no_tvg_id.m3u8
