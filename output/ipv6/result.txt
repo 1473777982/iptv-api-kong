@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-02-01 06:37:20,https://0472.org/hls/cgtnf.m3u8
+2026-02-01 18:43:44,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
 📺央视频道,#genre#
+CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
@@ -12,8 +14,8 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 
 📡卫视频道,#genre#
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 
 📡港澳台,#genre#
