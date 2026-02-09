@@ -1,6 +1,7 @@
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-TSN3,https://tvpass.org/live/tsn3/sd
+Sportsnet Ontario,https://tvpass.org/live/sportsnet-ontario/sd
+Sportsnet Pittsburgh,https://tvpass.org/live/sportsnet-pittsburgh/sd
 ABC News (720p),https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
@@ -14,7 +15,6 @@ ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/ab
 ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
 BBC News Asia Pacific (1080p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC News Europe,https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
-Fox News Channel (720p),#EXTVLCOPT:http-referrer=https://www.newslive.com/
 Fox News Radio (720p),https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 SABC News (720p) [Geo-blocked],https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 Sky News Arabia (1080p),https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
