@@ -1,9 +1,6 @@
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-ESPN2,https://tvpass.org/live/ESPN2/sd
-Fox Sports 1,https://tvpass.org/live/FoxSports1/sd
-Fox Sports 2,https://tvpass.org/live/FoxSports2/sd
-Sportsnet One,https://tvpass.org/live/sportsnet-one/sd
+Sportsnet Ontario,https://tvpass.org/live/sportsnet-ontario/sd
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
 ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
@@ -28,8 +25,9 @@ Sky News Extra 2 (540p) [Not 24/7],https://skynewsau-live.akamaized.net/hls/live
 Sky News Extra 3 (1080p),https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked],https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 TSN1 (1080p) [Not 24/7],https://tvpass.org/live/tsn1/hd
-TSN2 (1080p) [Not 24/7],https://tvpass.org/live/tsn2/hd
+TSN4 (720p) [Not 24/7],https://tvpass.org/live/tsn4/hd
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+Fox Sports 2 (360p) [Not 24/7],https://tvpass.org/live/FoxSports2/sd
 Fox Sports 2 (720p) [Not 24/7],https://tvpass.org/live/FoxSports2/hd
 FOX Sports [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 Sky News Weather (720p),https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
