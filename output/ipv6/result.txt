@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-01 19:31:34,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+2026-08-02 07:07:50,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
@@ -13,9 +12,8 @@ Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 
 📺CCTV,#genre#
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-中华小当家,https://live.metshop.top/huya/11342413
+中华小当家,https://live.ottiptv.cc/huya/11342413
 
 📡卫视频道,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
