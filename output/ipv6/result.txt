@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-02 07:07:50,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-08-03 21:10:48,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -12,8 +12,9 @@ Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 
 📺CCTV,#genre#
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-中华小当家,https://live.ottiptv.cc/huya/11342413
+中华小当家,https://live.metshop.top/huya/11342413
 
 📡卫视频道,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
@@ -21,6 +22,7 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 
 📡港澳台,#genre#
 凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰中文,http://r.jdshipin.com/cCCzW
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
