@@ -1,22 +1,21 @@
 🕘️更新时间,#genre#
-2026-09-02 07:59:46,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-09-03 22:27:24,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
 ABC News,https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 BBC News,https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 
 📺CCTV,#genre#
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-中华小当家,https://live.metshop.top/huya/11342413
+中华小当家,https://live.ottiptv.cc/huya/11342413
 
 📡卫视频道,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📡港澳台,#genre#
