@@ -1,15 +1,15 @@
 🕘️更新时间,#genre#
-2026-09-05 21:33:32,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-09-06 07:47:57,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CGTN英语,https://0472.org/hls/cgtn.m3u8
 ABC News,https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 BBC News,https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 
 📺CCTV,#genre#
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 中华小当家,https://live.ottiptv.cc/huya/11342413
 
@@ -19,8 +19,8 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📡港澳台,#genre#
-凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://r.jdshipin.com/cCCzW
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
