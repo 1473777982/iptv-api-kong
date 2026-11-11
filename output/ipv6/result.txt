@@ -1,53 +1,28 @@
 🕘️更新时间,#genre#
-2026-11-10 12:08:48,http://t.061899.xyz/tl/tl.php?id=cctv1
+2026-11-12 01:53:17,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV-3,http://t.061899.xyz/tl/tl.php?id=cctv3
-CCTV-4,http://t.061899.xyz/tl/tl.php?id=cctv4
-CCTV-5,http://t.061899.xyz/tl/tl.php?id=cctv5
-CCTV-6,http://t.061899.xyz/tl/tl.php?id=cctv6
-CCTV-7,http://t.061899.xyz/tl/tl.php?id=cctv7
-CCTV-9,http://t.061899.xyz/tl/tl.php?id=cctv9
-CCTV-10,http://t.061899.xyz/tl/tl.php?id=cctv10
-CCTV-11,http://t.061899.xyz/tl/tl.php?id=cctv11
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-14,http://t.061899.xyz/tl/tl.php?id=cctv14
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-15,http://t.061899.xyz/tl/tl.php?id=cctv15
-CCTV-16,http://t.061899.xyz/tl/tl.php?id=cctv16
-CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
+CGTN英语,https://0472.org/hls/cgtn.m3u8
 ABC News,https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 BBC News,https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 
 📺CCTV,#genre#
-CHC动作电影,http://t.061899.xyz/tl/tl.php?id=chcdzdy
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-中华小当家,https://live.metshop.top/huya/11342413
+中华小当家,https://live.ottiptv.cc/huya/11342413
 
 📡卫视频道,#genre#
-湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
-重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
-东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
-东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
-河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
-吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
-江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
-湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
-山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
-辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
 青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
 
 📡港澳台,#genre#
+凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰中文,http://r.jdshipin.com/cCCzW
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
